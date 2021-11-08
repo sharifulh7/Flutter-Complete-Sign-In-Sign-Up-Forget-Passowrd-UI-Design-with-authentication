@@ -4,6 +4,10 @@ A new Flutter UI design for Sign in, sign up and forget password page design iwt
 
 
 
+https://user-images.githubusercontent.com/52095892/140693038-7e4e1661-607c-4f35-879c-ac15f2896c3c.mp4
+
+
+
 .
 ![Screenshot_20211108-114543](https://user-images.githubusercontent.com/52095892/140692157-fd4552ee-c614-4826-b41f-f4fd6c11cf68.jpg)
 
