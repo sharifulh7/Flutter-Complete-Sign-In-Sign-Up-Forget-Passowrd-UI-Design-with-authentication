@@ -1,6 +1,19 @@
 # day17
 
-A new Flutter project.
+A new Flutter UI design for Sign in, sign up and forget password page design iwth authtication and Focuse node setup project.
+
+
+
+.
+![Screenshot_20211108-114543](https://user-images.githubusercontent.com/52095892/140692157-fd4552ee-c614-4826-b41f-f4fd6c11cf68.jpg)
+
+.
+
+![Screenshot_20211108-114605](https://user-images.githubusercontent.com/52095892/140692164-b7262b0f-b307-4c28-a223-09c8fecb30fb.jpg)
+
+.
+
+![Screenshot_20211108-114536](https://user-images.githubusercontent.com/52095892/140692167-bccd5978-b6b6-4e26-a632-12bc2a0a2720.jpg)
 
 ## Getting Started
 
